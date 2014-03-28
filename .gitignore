@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+/KerningConjunto/nbproject/private/
+/KerningConjunto/build/
