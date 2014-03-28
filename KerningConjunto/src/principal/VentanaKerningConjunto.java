@@ -88,6 +88,19 @@ boolean[][] letraI = {
     { true, true, true, false, false, false, true, true, true }
 };
 
+boolean[][] letraI = {
+    { false, false, false, false, true, false, false, false, false },
+    { false, false, false, false, true, false, false, false, false },
+    { false, false, false, true, false, true, false, false, false },
+    { false, false, false, true, false, true, false, false, false },
+    { false, false, true, false, false, false, true, false, false },
+    { false, false, true, false, false, false, true, false, false },
+    { false, true, true, true, true, true, true, true, false },
+    { false, true, false, false, false, false, false, true, false },
+    { false, true, false, false, false, false, false, true, false },
+    { true, true, true, false, false, false, true, true, true }
+};
+
 boolean[][] letraV = {
     { true, true, true, false, false, false, true, true, true },
     { false, true, false, false, false, false, false, true, false },
