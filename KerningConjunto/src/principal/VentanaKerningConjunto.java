@@ -74,6 +74,18 @@ boolean[][] letraV = {
     { false, false, false, false, true, false, false, false, false },
     { false, false, false, false, true, false, false, false, false },
 };
+boolean[][] letraI = {
+    { true, true, true, false, false, false, true, true, true },
+    { false, true, false, false, false, false, false, true, false },
+    { false, true, false, false, false, false, false, true, false },
+    { false, true, false, false, false, false, false, true, false },
+    { false, false, true, false, false, false, true, false, false }, 
+    { false, false, true, false, false, false, true, false, false },
+    { false, false, false, true, false, true, false, false, false },
+    { false, false, false, true, false, true, false, false, false },
+    { false, false, false, false, true, false, false, false, false },
+    { false, false, false, false, true, false, false, false, false },
+};
 
     /**
      * Creates new form VentanaKerningConjunto
