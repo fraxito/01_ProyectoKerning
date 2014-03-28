@@ -63,7 +63,7 @@ public class VentanaKerningConjunto extends javax.swing.JFrame {
     { true, true, true, false, false, false, true, true, true }
 };
 boolean[][] letraE = {
-    { false, false, false, false, true, false, false, false, false },
+    { false, false, false, false, true, true, false, false, false },
     { false, false, false, false, true, false, false, false, false },
     { false, false, false, false, false, true, false, false, false },
     { false, false, false, true, false, true, false, false, false },
